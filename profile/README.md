@@ -297,18 +297,6 @@ Our vision is to become one of the world's leading student-driven open-source or
 
 ---
 
-## 📊 GitHub Insights
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Omnikon-Org&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Omnikon-Org&theme=tokyonight&hide_border=true"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omnikon-Org&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
 ## 💖 Get Involved
 
 **Who can join?** Frontend & backend developers, AI/ML engineers, DevOps engineers, UI/UX designers, technical writers, and community managers — beginners and experts alike.
@@ -329,6 +317,3 @@ Whether you've opened an issue, submitted a pull request, starred a repository, 
 
 ### 🌟 Learn • Build • Contribute • Grow
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=120&section=footer"/>
-
-</div>
