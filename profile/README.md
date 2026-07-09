@@ -41,7 +41,6 @@
 - [Code of Conduct](#-code-of-conduct)
 - [FAQ](#-frequently-asked-questions)
 - [Vision](#-vision)
-- [GitHub Insights](#-github-insights)
 - [Get Involved](#-get-involved)
 
 ---
@@ -305,7 +304,7 @@ Our vision is to become one of the world's leading student-driven open-source or
 
 ⭐ Star our repositories · 🍴 Contribute to projects · 💬 Join our Discord · 📢 Share our work · 👥 Invite fellow developers
 
-**Sponsors & Partners:** We welcome organizations that believe in open source, student innovation, and developer education. Reach out at **contact@omnikon.com**.
+**Sponsors & Partners:** We welcome organizations that believe in open source, student innovation, and developer education. Reach out at **contact@omnikonhub.com**.
 
 ---
 
