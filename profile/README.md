@@ -1,6 +1,7 @@
 <div align="center">
 
-<img width="1774" height="887" alt="Omnikon banner" src="https://github.com/user-attachments/assets/3febdaf2-e90a-4855-a815-9c43294150e2" />
+<img width="1983" height="793" alt="ChatGPT Image Aug 24, 2026, 10_12_46 PM" src="https://github.com/user-attachments/assets/336af434-ede3-4b35-a971-a798276dbda3" />
+
 
 # 🚀 Omnikon
 
